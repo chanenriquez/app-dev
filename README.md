@@ -5,7 +5,7 @@ My first repository.
 1. One Piece
 2. Berserk
 3. Gachiakuta
-4. Jujutsu Kaisem
+4. Jujutsu Kaisen
 5. Dandadan
 6. Kagurabachi
 7. REAL
@@ -17,7 +17,7 @@ My first repository.
 4. Daredevil
 5. Venom
 
-##My favorite characters of all time. No specific order.
+## My favorite characters of all time. No specific order.
 - Luffy
 - Sanji
 - Peter Parker
@@ -32,7 +32,7 @@ My first repository.
 
 This is fun! 😹
 
-###My favorite Movies and Series.
+### My favorite Movies and Series.
 
 **Favorite Movies RANKED**
 1. Isle of Dogs
